@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jogadores"</string>
-    <string name="Control_">"Controle:"</string>
+    <string name="Control_">"Controles:"</string>
     <string name="CLOSE">"FECHAR"</string>
     <string name="Stick_Size_">"Tamanho do Controlador:"</string>
     <string name="Stick_Margin_">"Margem do Controlador:"</string>
@@ -8,16 +8,16 @@
     <string name="Button_Margin_">"Margem dos Botões:"</string>
     <string name="Buttons_">"Botões"</string>
     <string name="DEFAULTS">"PADRÕES"</string>
-    <string name="WEEKLY">"SEMANAL"</string>
+    <string name="WEEKLY">"SEMANALMENTE"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Jogo:"</string>
+    <string name="Game_Mode_">"Modo de Jogar:"</string>
     <string name="Show_Names">"Mostrar Nomes"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JOGAR"</string>
-    <string name="OPTIONS">"OPÇÕES"</string>
+    <string name="OPTIONS">"CONFIGURAÇOES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar_">"Pele:"</string>
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"Carregando…"</string>
